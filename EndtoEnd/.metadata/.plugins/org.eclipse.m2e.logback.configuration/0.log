@@ -1,0 +1,35 @@
+2021-02-21 22:04:18,667 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-21 22:46:03,270 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pom:POMPFProject:0.0.1-SNAPSHOT @ C:\Users\User\eclipse-workspace\POMPFProject\pom.xml.
+2021-02-21 22:46:15,700 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /POMPFProject/src/main/java
+2021-02-21 22:46:15,708 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /POMPFProject/src/test/java
+2021-02-21 22:46:16,824 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 28 sec
+2021-02-21 22:46:33,657 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-21 22:46:33,660 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\POMPFProject\src\main\resources
+2021-02-21 22:46:33,686 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-21 22:46:33,688 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\POMPFProject\src\test\resources
+2021-02-21 23:01:04,529 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-21 23:04:46,573 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-21 23:04:46,575 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\git\Framework\POMPFProject\src\main\resources
+2021-02-21 23:04:46,610 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-21 23:04:46,611 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\git\Framework\POMPFProject\src\test\resources
+2021-02-21 23:04:48,425 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-21 23:04:48,443 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\git\Framework\POMPFProject\src\main\resources
+2021-02-21 23:04:48,467 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-21 23:04:48,470 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\git\Framework\POMPFProject\src\test\resources
+2021-02-21 23:06:32,536 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @643347ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-02-21 23:06:33,660 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.29.v20200521; built: 2020-05-27T11:26:53.365Z; git: 77c232aed8a45c818fd27232278d9f95a021095e; jvm 11.0.10+8-LTS-162
+2021-02-21 23:06:33,814 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2021-02-21 23:06:33,816 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2021-02-21 23:06:33,825 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2021-02-21 23:06:34,035 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@60d41e74{/help,null,AVAILABLE}
+2021-02-21 23:06:34,169 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@290959e5{HTTP/1.1, (http/1.1)}{127.0.0.1:10100}
+2021-02-21 23:06:34,172 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @644993ms
+2021-02-21 23:06:34,175 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2021-02-21 23:07:35,956 [Worker-7: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-21 23:07:35,987 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-21 23:07:35,989 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\git\Framework\POMPFProject\src\main\resources
+2021-02-21 23:07:36,002 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-21 23:07:36,003 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\git\Framework\POMPFProject\src\test\resources
+2021-02-21 23:10:18,998 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@290959e5{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2021-02-21 23:10:19,000 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2021-02-21 23:10:19,704 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@60d41e74{/help,null,UNAVAILABLE}
